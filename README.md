@@ -7,3 +7,5 @@ USER
 PASSWORD
 DATABASE
 ECHO
+
+ECHO булево значение True либо False
